@@ -1,7 +1,5 @@
-[package]
+[task]
 name = "loco-git-task"
-version = "0.1.0"
-edition = "2024"
 
 [dependencies]
 loco-rs = "0.16.3"
